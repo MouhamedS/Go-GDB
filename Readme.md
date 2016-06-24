@@ -47,6 +47,8 @@ utilisable via la commande : go run debug_gdb.go  nom_fichier_compilé
 
 •	Les couches (frames) et variables par couches sont visibles dans rectangle de gauche
 
+### Misc
+•Dans Ressources , il y a un fichier debug_gdb.go qui ne contient que le prototype de la  partie go-gdb à des fins des tests ou d'extensions de cette
 
 
 
